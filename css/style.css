@@ -10,3 +10,8 @@
   background-color: white;
   color: rgb(68,68,68);
 }
+
+.highlight {
+  background-color: yellow;
+  border:  solid 2px darkred;
+}

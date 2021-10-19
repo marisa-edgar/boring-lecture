@@ -10,4 +10,8 @@ $(document).ready(function() {
     $("body").addClass("light");
   });
   
+  $("p").click(function() {
+    $(".highlight").show();
+  });
+  
 });
